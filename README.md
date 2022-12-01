@@ -15,7 +15,9 @@ I am a final year student pursuing Bachelor of Technology in Computer Science an
 Creative Side of Mine ⬇️
 
 🔹 I’ve performed my Hindi Poetry in Delhi/NCR based Open Mic Platforms.
+
 🔹 I wrote a song which crossed 200k+ views on YouTube.
+
 🔹 I’ve published more than 20+ voice-over videos on YouTube during the pandemic lockdown.
 
 <!---
