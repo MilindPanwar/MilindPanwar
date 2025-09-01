@@ -1,26 +1,46 @@
-I am a final year student pursuing Bachelor of Technology in Computer Science and Engineering. I make native android applications. I’ve developed a few android projects using Kotlin, Java, XML in Android Studio and currently I am learning Flutter mobile application development. 
+👋 Hi, I’m Milind Panwar
 
-🔸 I’ve contributed to Open Source. Recently my 8 PRs got accepted in Hacktoberfest ‘22.
+I’m a Flutter Developer with 3+ years of experience, currently working as SDE 2 at Jarvis Technology. I specialize in building scalable, high-performance mobile applications with clean architecture and smooth user experiences.
 
-🔸 I've been consistent on LeetCode from the past 200+ days and solved 250+ DSA questions.
+Over the past few years, I’ve:
 
-🔸 I did a FutureReadyTalent Internship at Microsoft. Deployed a website using Azure Static Web Apps and acquired GitHub knowledge.
 
-🔸 I enjoy developing mobile apps and have learned android application development.
+📱 Designed and developed applications from scratch using Flutter & Dart
 
-🔸 I did an NPTEL certification course on 'Programming In Java' with an achievement 'Elite-Silver' for securing 78% in the Offline Final Exam.
+⚡ Implemented state management solutions like Riverpod, BLoC, and Provider
 
-🔸 I did a ‘Java Master Crux’ course from Coding Blocks and practiced advanced DSA questions.
+🔥 Worked with Firebase, REST APIs, third-party integrations, and cloud services
 
-Creative Side of Mine ⬇️
+🎨 Focused on crafting intuitive UI/UX with responsive and pixel-perfect designs
 
-🔹 I’ve performed my Hindi Poetry in Delhi/NCR based Open Mic Platforms.
+🚀 Worked on 2 apps with 1M+ downloads and 5 apps with 100K+ downloads
 
-🔹 I wrote a song which crossed 200k+ views on YouTube.
+I enjoy turning complex problems into simple, user-friendly solutions. My passion lies in creating apps that not only work efficiently but also delight users.
 
-🔹 I’ve published more than 20+ voice-over videos on YouTube during the pandemic lockdown.
+🛠️ Tech Stack
 
-<!---
-MilindPanwar/MilindPanwar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Languages & Frameworks: Flutter, Dart, Kotlin, Java
+
+State Management: Riverpod, BLoC, Provider
+
+Backend & APIs: REST APIs, Firebase, Supabase
+
+Tools & Platforms: Git, GitHub, Android Studio, VS Code, CI/CD
+
+Architecture: MVC, MVVM, Clean Architecture
+
+🌱 Currently Exploring
+
+Advanced Flutter performance optimization
+
+AI-powered mobile applications
+
+Writing articles & creating content on Flutter development (YouTube, Medium, LinkedIn, Instagram)
+
+📫 Connect with Me
+
+💼 LinkedIn
+
+📂 Portfolio / Website
+
+🐙 GitHub Projects
